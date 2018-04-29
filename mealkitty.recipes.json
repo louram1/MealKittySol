@@ -1,0 +1,648 @@
+{ 
+    "_id" : ObjectId("5ae1718596a10513983ee7d6"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Italian", 
+    "Title" : "Homemade Italian Beef Recipe", 
+    "imageURL" : "https://www.edamam.com/web-img/654/6548ea97ec2cda2c58fd6f7ba8002a72.jpg", 
+    "InstructionURL" : "http://thepioneerwoman.com/cooking/2015/03/italian-meatloaf/", 
+    "Ingredients" : "2 pounds Ground Beef,6 slices Crusty Italian Bread,1 cup Whole Milk,1 cup Grated Parmesan,4 whole Large Eggs,1/3 cup Minced Parsley,1 Tablespoon Italian Seasoning,1 teaspoon Salt,1/2 teaspoon Black Pepper,12 slices Thin Pancetta (about 4 To 6 Ounces),2 cans Diced Tomatoes (drained),1/4 cup Brown Sugar,1 teaspoon Dry Mustard,1 pinch Cayenne Pepper,5 dashes Worcestershire Sauce"
+}
+{ 
+    "_id" : ObjectId("5ae1718596a10513983ee7d7"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Italian", 
+    "Title" : "Italian Potato Salad", 
+    "imageURL" : "https://www.edamam.com/web-img/3c4/3c4f7e8437d9c95a385dfa963ed18bcd.jpg", 
+    "InstructionURL" : "http://www.comidakraft.com/sp/recetas/ensalada-italiana-de-papas-64985.aspx", 
+    "Ingredients" : "1 lb. potatoes,1/4 cup kraft lite house italian dressing,2 tsp. dried tarragon leaves,1 can (6 oz.) tuna, drained, flaked,1 cup cut-up green beans, cooked, cooled"
+}
+{ 
+    "_id" : ObjectId("5ae1718596a10513983ee7d8"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Italian", 
+    "Title" : "Homemade Italian Beef Recipe", 
+    "imageURL" : "https://www.edamam.com/web-img/4d6/4d6487af4e7162d2f0fc43819b4e44e6.jpg", 
+    "InstructionURL" : "http://www.seriouseats.com/recipes/2014/05/homemade-italian-beef-sandwich.html", 
+    "Ingredients" : "3 pounds beef necks, or other meaty beef bones like beef shin,2 pounds oxtails,1 medium onion, chopped (about 1 cup),1 medium carrot, chopped (about 3/4 cup),4 medium cloves garlic, peeled and left whole,2 bay leaves,10 black peppercorns,4 cloves,1/2 to 1 teaspoon salt,2 green bell peppers,8 Italian rolls,2 pounds thinly sliced roast beef (see note above)"
+}
+{ 
+    "_id" : ObjectId("5ae1718596a10513983ee7d9"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Italian", 
+    "Title" : "Italian Sausage And Broccoli Rabe", 
+    "imageURL" : "https://www.edamam.com/web-img/764/7642ed29a8633658b11473b69674d400.jpg", 
+    "InstructionURL" : "http://leitesculinaria.com/95033/recipes-italian-sausage-and-broccoli-rabe.html", 
+    "Ingredients" : "1 coil Italian sausage (1 1/2 to 2 pounds),2 tablespoons olive oil,1/4 cup cold water, plus more as needed,1 bunch broccoli rabe (rapini) or Broccolini (a trademarked hybrid of broccoli and Chinese kale),1/4 cup extra-virgin olive oil, plus more for drizzling,1 clove garlic, thinly sliced,1/4 to 1/2 teaspoon crushed red pepper flakes,Salt, to taste,1/4 cup cold water"
+}
+{ 
+    "_id" : ObjectId("5ae1718596a10513983ee7da"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Italian", 
+    "Title" : "Italian Sliders", 
+    "imageURL" : "https://www.edamam.com/web-img/ca8/ca8151d28e1c76435842c87974d63ca7.jpg", 
+    "InstructionURL" : "https://food52.com/recipes/5104-italian-sliders", 
+    "Ingredients" : "1 1/2 pound ground beef,1 pound hot italian sausage,1 teaspoon italian seasoning,1 medium onion chopped finely,1 bell pepper chopped finely,2 cloves minced garlic,18 dinner rolls (freshly baked best),8 ounces fresh mozzarella sliced 1/4 inch thick,4 large roma tomatoes sliced 1/4 thick,1/2 cup fresh large basil leaves,3 tablespoons extra virgin olive oil,"
+}
+{ 
+    "_id" : ObjectId("5ae1718596a10513983ee7db"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Italian", 
+    "Title" : "Italian Sausage Panini", 
+    "imageURL" : "https://www.edamam.com/web-img/8f3/8f3784d591b88414dfcab6b8c79db7e5.jpg", 
+    "InstructionURL" : "https://www.chowhound.com/recipes/italian-sausage-panini-31839", 
+    "Ingredients" : "1 red bell pepper, thinly sliced,1 tablespoon olive oil,4 slices Italian bread, sliced 1/2-inch thick,4 slices provolone cheese,2 pre-cooked Italian sausages, sliced 1/2-inch thick,1 cup fresh baby spinach,olive oil for brushing"
+}
+{ 
+    "_id" : ObjectId("5ae1718596a10513983ee7dc"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Italian", 
+    "Title" : "Italian-Style Breadcrumbs recipes", 
+    "imageURL" : "https://www.edamam.com/web-img/2e7/2e706b7038b4c367b7bf245b83a4e81f", 
+    "InstructionURL" : "http://www.marthastewart.com/315725/italian-style-breadcrumbs", 
+    "Ingredients" : "1 loaf Italian bread, torn into 2-inch pieces,1 1/2 tablespoons extra-virgin olive oil,1 teaspoon finely chopped garlic,1 tablespoon lemon zest,1 1/2 tablespoons chopped flat-leaf parsley,2 teaspoons coarse sea salt,1 teaspoon freshly ground black pepper"
+}
+{ 
+    "_id" : ObjectId("5ae1718596a10513983ee7dd"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Italian", 
+    "Title" : "Italian Burger", 
+    "imageURL" : "https://www.edamam.com/web-img/bc1/bc1af81ce409ee50a6f8776b42193ac5.jpg", 
+    "InstructionURL" : "http://www.kitchendaily.com/recipe/italian-burger", 
+    "Ingredients" : "4 MorningStar Farms� Tomato & Basil Pizza Burgers,� cup herb pasta sauce,4 thin slices Provolone cheese (about 3 oz. total),� medium red bell pepper, cut into 1/4-inch-wide strips,� medium green bell pepper, cut into 1/4-inch-wide strips,� large sweet onion, cut into slivers,� tsp dried Italian seasoning,1 tsp olive oil,4 hamburger buns, split and toasted"
+}
+{ 
+    "_id" : ObjectId("5ae1718596a10513983ee7de"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Italian", 
+    "Title" : "Italian Prune Plum Galette", 
+    "imageURL" : "https://www.edamam.com/web-img/def/def703fd92c64098324fcd4cfc1dca20.jpg", 
+    "InstructionURL" : "http://honestcooking.com/italian-prune-plum-galette/", 
+    "Ingredients" : "� to 1 pound (350-450g) italian prune plums,5 tablespoons sugar,Zest of one lemon,10 ounces puff pastry (about 285 grams), defrosted overnight in the fridge"
+}
+{ 
+    "_id" : ObjectId("5ae1718596a10513983ee7df"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Italian", 
+    "Title" : "Italian Trifle", 
+    "imageURL" : "https://www.edamam.com/web-img/799/799dcfd61bfbe4fce9f8cf335c5866c3.jpg", 
+    "InstructionURL" : "http://www.cookstr.com/recipes/italian-trifle", 
+    "Ingredients" : "1� ounces unsweetened chocolate , finely chopped,24 small savoiardi (italian ladyfingers ),1 vanilla bean , split,Grated zest of 1 lemon,7 large egg yolks,5 tablespoons unsweetened cocoa powder,� cup all-purpose flour,3� cups whole milk,� cup limoncello or other sweet citrus liqueur,1 cup sugar"
+}
+{ 
+    "_id" : ObjectId("5ae1718596a10513983ee7e0"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Mexican", 
+    "Title" : "Mexican Hot Chocolate Recipe", 
+    "imageURL" : "https://www.edamam.com/web-img/fad/fadf27e0bda6c632ddfa0d7eb5731100.jpg", 
+    "InstructionURL" : "http://leitesculinaria.com/65597/recipes-mexican-hot-chocolate.html", 
+    "Ingredients" : "3/4 cup or so whole milk or water,1 mexican chocolate disc or tablet, broken into pieces (these may be flavored with almonds, spice, chiles, vanilla, or nothing but cacao)"
+}
+{ 
+    "_id" : ObjectId("5ae1718596a10513983ee7e1"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Mexican", 
+    "Title" : "Mexican Chocolate-Ancho Paletas", 
+    "imageURL" : "https://www.edamam.com/web-img/8a1/8a126427bd1fe339ea5070b53b002a0f.jpg", 
+    "InstructionURL" : "https://food52.com/recipes/8273-mexican-chocolate-ancho-paletas", 
+    "Ingredients" : "1 1/2 cup heavy cream,1 1/2 cup whole milk,5-6 ounces mexican chocolate, chopped,1 cinnamon stick,1 teaspoon ancho chili powder"
+}
+{ 
+    "_id" : ObjectId("5ae1718596a10513983ee7e2"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Mexican", 
+    "Title" : "Michelada: Mexican Beer Cocktail Recipe", 
+    "imageURL" : "https://www.edamam.com/web-img/981/9814a4a7d7aa02e680438f3ee2b5acde.jpg", 
+    "InstructionURL" : "http://www.seriouseats.com/recipes/2017/06/perfect-michelada-mexican-beer-cocktail-recipe.html", 
+    "Ingredients" : "1/2 lime,Coarse salt,2 dashes Worcestershire sauce,1 dash soy sauce,1 dash Tabasco sauce,1 pinch black pepper,1 dash Maggi seasoning, optional,12 ounces beer, preferably a dark Mexican beer like Negra Modelo."
+}
+{ 
+    "_id" : ObjectId("5ae1718596a10513983ee7e3"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Mexican", 
+    "Title" : "Mexican Green Bean Salad", 
+    "imageURL" : "https://www.edamam.com/web-img/64f/64fe9a4fb2e6da59c4291b5d637af586.jpg", 
+    "InstructionURL" : "http://www.simplyrecipes.com/recipes/mexican_green_bean_salad/", 
+    "Ingredients" : "1 lb fresh green beans, strings removed, ends snapped off, cut in half into about 1 1/2 inch length pieces,1/4 cup onion, finely chopped,2 Tbsp lime juice or white vinegar,1 Tbsp olive oil,1/2 teaspoon sea salt,1/2 teaspoon dried oregano (Mexican oregano if you can get it),3/4 cup packed, chopped cilantro,1/3 cup canned, pickled jalape�o chili peppers, sliced,1/3 cup chopped red onion,1/2 cup crumbled cotija cheese (salty Mexican cheese that resembles feta),1/2 avocado, sliced or cut into inch long pieces,1 medium tomato, cut into 8 wedges, or a cup of halved cherry tomatoes"
+}
+{ 
+    "_id" : ObjectId("5ae1718596a10513983ee7e4"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Mexican", 
+    "Title" : "Mexican Pizza", 
+    "imageURL" : "https://www.edamam.com/web-img/0db/0db116d57be0b718417eabfe7bf15a9c.jpg", 
+    "InstructionURL" : "http://www.delish.com/cooking/recipe-ideas/recipes/a33505/mexican-pizza-recipe-121624/", 
+    "Ingredients" : "1 large prebaked thin-crust pizza crust,� c. taco sauce,1 package precooked fajita-style chicken strips,1� c. frozen Southwestern corn blend,1 c. shredded Mexican or taco cheese blend,� c. Diced avocado,2 tbsp. Chopped cilantro"
+}
+{ 
+    "_id" : ObjectId("5ae1718596a10513983ee7e5"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Mexican", 
+    "Title" : "Latin Limeade", 
+    "imageURL" : "https://www.edamam.com/web-img/5a5/5a56e55a62527154b702d7a943ca0286.jpg", 
+    "InstructionURL" : "http://www.eatingwell.com/recipe/248816/latin-limeade", 
+    "Ingredients" : "1 cup lime juice,4 cups crushed ice,4 tablespoons dark brown sugar,2 cups cold water"
+}
+{ 
+    "_id" : ObjectId("5ae1718596a10513983ee7e6"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Mexican", 
+    "Title" : "Latin-Style Flank Steak", 
+    "imageURL" : "https://www.edamam.com/web-img/243/243d68b4ab87433b0e8b884e01785202.jpg", 
+    "InstructionURL" : "http://www.finecooking.com/recipes/latin-style-flank-steak.aspx", 
+    "Ingredients" : "1 Tbs. ground coriander,1 Tbs. chili powder,1 tsp. kosher salt,1 tsp. olive oil,1-1/2- to 2-lb. flank steak, trimmed of any excess fat and membrane,1/2 tsp. ground cinnamon,1 recipe Chipotle Butter,1-1/2 tsp. freshly ground black pepper,1/2 tsp. dried oregano,2-1/2 Tbs. ground cumin"
+}
+{ 
+    "_id" : ObjectId("5ae1718596a10513983ee7e7"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Mexican", 
+    "Title" : "Quinoa With Latin Flavors", 
+    "imageURL" : "https://www.edamam.com/web-img/8f1/8f1f1bfc2ab83ce6c6b67e697ab14dbb.jpg", 
+    "InstructionURL" : "http://www.kitchendaily.com/recipe/quinoa-latin-flavors", 
+    "Ingredients" : "1 cup quinoa,2 teaspoons canola oil,1 medium onion, chopped,1 4-ounce can chopped green chiles,2 cloves garlic, minced,1 14-ounce can reduced-sodium chicken broth or vegetable broth,1/4 cup pepitas, toasted,3/4 cup coarsely chopped fresh cilantro,1/2 cup chopped scallions,2 tablespoons lime juice,1/4 teaspoon salt"
+}
+{ 
+    "_id" : ObjectId("5ae1718596a10513983ee7e8"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Mexican", 
+    "Title" : "Latin Macho Burger recipes", 
+    "imageURL" : "https://www.edamam.com/web-img/9ae/9ae24ce26a89029351303d2430c01ea6", 
+    "InstructionURL" : "http://www.cookingchanneltv.com/recipes/latin-macho-burger.html", 
+    "Ingredients" : "12 ounces ground beef,8 ounces chorizo,1 tablespoon adobo seasoning,3 large yellow onions; 1 grated and 2 thinly sliced,1 tablespoon olive oil,salt,freshly ground pepper,1/2 cup minced jalapeno peppers,1/2 cup packed dark brown sugar,3/4 cup mayonnaise,2 roasted red bell peppers,6 potato rolls, split,6 slices cheese"
+}
+{ 
+    "_id" : ObjectId("5ae1718596a10513983ee7e9"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Mexican", 
+    "Title" : "Latin-American French Lentil Salad", 
+    "imageURL" : "https://www.edamam.com/web-img/da0/da01ad72c9da581f7e0e4c54584cfb6f.jpg", 
+    "InstructionURL" : "http://herbivoracious.com/2009/09/french-lentil-salad-recipe.html", 
+    "Ingredients" : "1 1/2 cups french green lentils (lentils de puy aoc are the best),1 cup tiny potatoes or cubed larger potatoes,1/2 medium cucumber, peeled, seeded and diced,6 radishes, thinly sliced,1/2 small red onion, small dice,Big handful mint leaves (chopped if large, reserve a few for garnish),Big handful parsley leaves (reserve a few for garnish),Lime juice,Extra virgin olive oil,Salt,1/2 cup crumbled queso fresco,Fresh ground black pepper,1 avocado, sliced"
+}
+{ 
+    "_id" : ObjectId("5ae1718596a10513983ee7ea"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Indian", 
+    "Title" : "Indian Fried Dough | Jalebi", 
+    "imageURL" : "https://www.edamam.com/web-img/39a/39a44c625a933530f7b67cade65e492d.jpg", 
+    "InstructionURL" : "http://leitesculinaria.com/82741/recipes-indian-fried-dough-jalebi..html", 
+    "Ingredients" : "1 cup (3 ounces) all-purpose flour (labeled maida in Indian stores),1 teaspoon gram flour (besan) (optional),1/2 teaspoon yeast,1/2 teaspoon granulated sugar,1/2 teaspoon mild vegetable oil, plus more for frying,About 1 cup lukewarm water,A few drops orange or yellow food coloring (optional),1 cup (8 1/2 ounces) granulated sugar,1 cup water,Pinch ground cardamom,Pinch crushed saffron threads,1 to 2 teaspoons fresh lemon juice"
+}
+{ 
+    "_id" : ObjectId("5ae1727096a10513983ee7f4"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Indian", 
+    "Title" : "Sambhar (Indian Lentil Stew)", 
+    "imageURL" : "https://www.edamam.com/web-img/90b/90b1b51c02a4cff1783c5ddde66c562e.jpg", 
+    "InstructionURL" : "https://www.tastingtable.com/cook/recipes/Sambhar--Indian-Lentil-Soup-Recipe", 
+    "Ingredients" : "Yield: 6 servings,2 cups toor dal (split yellow lentils; available at indian markets),1 tablespoon plus 1 teaspoon ground turmeric, divided,� teaspoon fenugreek seeds (available at indian markets),2 tablespoons canola oil,1 tablespoon black mustard seeds (available at indian markets),1 dried red chile,4 fresh curry leaves (optional; available at indian markets),1 teaspoon ground red chile powder or cayenne pepper,1 tablespoon homemade (click here to see recipe) or store-bought sambhar masala (available at indian markets),2 yellow onions, diced,1 tablespoon tomato paste,1 tablespoon tamarind paste (available at indian markets),1� tablespoons kosher salt,2 cups vegetable broth,6 baby carrots, trimmed and peeled, or 4 small carrots--trimmed, peeled and halved lengthwise on a bias,� english cucumber, peeled and scooped with a melon baller,� cup cherry tomatoes (preferably sun gold),6 small radishes, trimmed and halved (preferably breakfast radishes),� cup fresh or frozen peas,Chopped fresh cilantro for serving"
+}
+{ 
+    "_id" : ObjectId("5ae1727096a10513983ee7f5"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Indian", 
+    "Title" : "South Indian Cauliflower Bake", 
+    "imageURL" : "https://www.edamam.com/web-img/20d/20db3400fe6bd2b11b942378366d4c00.jpg", 
+    "InstructionURL" : "http://honestcooking.com/south-indian-cauliflower-bake/", 
+    "Ingredients" : "1 big cauliflower (cut into small florets),� cup olive oil,2 tablespoons sambar powder (a south indian curry powder),1 teaspoon mustard seeds,2 tablespoons crushed curry leaves,1 teaspoon paprika,� teaspoon hing (asafoetida),2 tablespoon cornflour or corn starch,1 tablespoon lemon rind,Salt to taste,Chopped coriander & chat masala to garnish"
+}
+{ 
+    "_id" : ObjectId("5ae1727096a10513983ee7f6"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Indian", 
+    "Title" : "Indian Semolina Upma Recipe", 
+    "imageURL" : "https://www.edamam.com/web-img/cb4/cb491cce6441dd4cf4865eb59ca30761.png", 
+    "InstructionURL" : "http://www.foodrepublic.com/recipes/indian-semolina-upma-recipe/", 
+    "Ingredients" : "1/2 cup semolina,2 tablespoons ginger, chopped,2 tablespoons shallots,1/4 cup butter,3 to 4 thin slices chili (green or red),2 cups coconut milk,2 cups water,2 teaspoons onion seed,2 teaspoons cumin,1 spring curry leaf,3 kokums (indian plums), sliced,Salt, to taste,Vegetables (any in season)"
+}
+{ 
+    "_id" : ObjectId("5ae1727096a10513983ee7f7"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Indian", 
+    "Title" : "Indian inspired Spicy Couscous", 
+    "imageURL" : "https://www.edamam.com/web-img/20f/20f6ac39978cd4180e92616d383a720f.jpeg", 
+    "InstructionURL" : "https://food52.com/recipes/15164-indian-inspired-spicy-couscous", 
+    "Ingredients" : "2 cups couscous,2 cups water,2 tablespoons oil,1 onion chopped,3 green chillies(jalapenos)chopped,1 teaspoon black mustard seeds,3 curry leaves(available in indian stores),1 cup dried sweetened cranberries,1/2 cup raisins,2 tablespoons slivered almonds for garnish,1 tablespoon salt"
+}
+{ 
+    "_id" : ObjectId("5ae1727096a10513983ee7f8"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Indian", 
+    "Title" : "South Indian Chicken Curry", 
+    "imageURL" : "https://www.edamam.com/web-img/d98/d98edd218ccdb2927208fbac1393106f.jpg", 
+    "InstructionURL" : "http://www.finecooking.com/recipes/south_indian_chicken_curry.aspx", 
+    "Ingredients" : "1 clove garlic, minced,2 green peppers,1/2 tsp. black mustard seeds,3 medium onions, sliced thin,3 potatoes, diced into 1/2-inch cubes,2 lbs. chicken thighs, skinned,2 cups fresh Coconut Milk (1 cup thick, 1 cup thin),2 to 3 Tbs. South Indian Curry Spice Mix,Kosher salt,1-inch piece of ginger, minced,1 Tbs. vegetable or canola oil,Cooked long-grain rice, for serving,Stems from 3 sprigs fresh cilantro, chopped, plus 1/4 cup loosely packed cilantro leaves"
+}
+{ 
+    "_id" : ObjectId("5ae1727096a10513983ee7f9"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Indian", 
+    "Title" : "Indian Spiced Chickpea Gravy (Chole) Recipe", 
+    "imageURL" : "https://www.edamam.com/web-img/9cd/9cdc1bf5fcef5283d9ec13251d0848db.jpg", 
+    "InstructionURL" : "http://www.seriouseats.com/recipes/2013/08/indian-spiced-chickpea-gravy-chole..html", 
+    "Ingredients" : "1 cup dried chickpeas (or two 15-ounce cans chickpeas, drained and rinsed, see note above),1 black cardamom pod,1 inch piece cinnamon,1 bay leaf,6 peppercorns,2 teaspoons cumin seeds,3 teaspoons coriander seeds,1 teaspoon fennel seeds,2 dry kashmiri chillis,2 tablespoons vegetable oil,1 medium onion, finely chopped (about 1 cup),1 teaspoon ginger-garlic paste (see note above),2 large tomatoes,1 teaspoon amchur or dry mango powder,2 small Indian or Thai green chilies, split in half,Kosher salt,2 tablespoons minced fresh cilantro leaves and tender stems],"
+}
+{ 
+    "_id" : ObjectId("5ae1727096a10513983ee7fa"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Indian", 
+    "Title" : "Indian porridge", 
+    "imageURL" : "https://www.edamam.com/web-img/4a0/4a02451e48182ae820978e982ca82cd0.jpg", 
+    "InstructionURL" : "http://www.foodista.com/recipe/3JHP5G5B/indian-porridge", 
+    "Ingredients" : "1 cup cracked wheat ( Can be easily found in Indian stores),2-3 cups of milk ( whole milk, low fat percent milk or coconut milk) (I used 2% milk),Pinch of turmeric,Sugar to taste ( honey or maple syrup can used as well),Almonds or any kind of nuts for garnish (optional),Unsweetened shredded coconut for garnish (optional)"
+}
+{ 
+    "_id" : ObjectId("5ae1727096a10513983ee7fb"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Indian", 
+    "Title" : "Frothy Indian Coffee", 
+    "imageURL" : "https://www.edamam.com/web-img/bd3/bd36cf6d5fc839c66e8098186ef121d5.jpg", 
+    "InstructionURL" : "http://www.sevenspoons.net/blog/2011/5/9/halfway-already..html", 
+    "Ingredients" : "3/4 cup milk,1/4 cup water, plus around 1/2 teaspoon more,4 tsp sugar, or to taste,1 tbsp instant coffee powder"
+}
+{ 
+    "_id" : ObjectId("5ae1727096a10513983ee7fc"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Indian", 
+    "Title" : "Saag Paneer (Spinach With Fresh Indian Cheese)", 
+    "imageURL" : "https://www.edamam.com/web-img/c21/c2189d8e3911a84ff78a7d23cb4a6379.jpg", 
+    "InstructionURL" : "http://www.saveur.com/article/Recipes/Spinach-with-Fresh-Indian-Cheese-", 
+    "Ingredients" : "FOR THE CHEESE (or 7 oz. of store-bought paneer may be used instead):,8 cups milk,� cup fresh lemon juice,6 tbsp. ghee or canola oil,FOR THE SPINACH:,4 cloves garlic, chopped,1 (1?) piece of ginger, peeled and chopped,1 serrano chile, stemmed and chopped,6 cups finely chopped spinach,Kosher salt, to taste,6 tbsp. heavy cream,� tsp. garam masala,� tsp. cayenne,Indian flatbread or rice, for serving"
+}
+{ 
+    "_id" : ObjectId("5ae1727096a10513983ee7fd"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Chinese", 
+    "Title" : "Chinese Spareribs Recipe", 
+    "imageURL" : "https://www.edamam.com/web-img/a17/a1743e0d07c557f90af58047e5b4b0d0.jpeg", 
+    "InstructionURL" : "http://www.seriouseats.com/recipes/2011/04/chinese-spareribs-char-siu-recipe..html", 
+    "Ingredients" : "1 tablespoon Chinese five-spice powder,1 full rack St. Louis-style spareribs, cut into individual ribs (about 3 pounds total),1/2 cup hoisin sauce,1/4 cup shaoxing wine or dry sherry,2 tablespoons soy sauce,1/4 cup honey"
+}
+{ 
+    "_id" : ObjectId("5ae1727096a10513983ee7fe"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Chinese", 
+    "Title" : "Chinese Sausages with Mustard", 
+    "imageURL" : "https://www.edamam.com/web-img/571/5719e03b37a17f3aa00523c08e6b2e93.jpg", 
+    "InstructionURL" : "http://www.marthastewart.com/312741/chinese-sausages-with-mustard", 
+    "Ingredients" : "1 pound chinese duck liver sausages,1/2 cup english mustard, preferably colman's, for serving"
+}
+{ 
+    "_id" : ObjectId("5ae1727096a10513983ee7ff"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Chinese", 
+    "Title" : "Steamed Chinese Charcuterie", 
+    "imageURL" : "https://www.edamam.com/web-img/5d5/5d5ba9830fd7d596e5867cd765683fc8.jpg", 
+    "InstructionURL" : "http://zesterdaily.com/cooking/chinese-dumpling-party/", 
+    "Ingredients" : "4 chinese sweet sausages (lachang or lop chong),4 chinese duck liver sausages (yaganchang),4 pieces chinese cured meats of any kind (larou; each about 10 inches long), or 2 pieces chinese smoked pork belly and 1 (8 ounce) piece chinese smoked pork shoulder,2 inches fresh ginger, peeled,3 or 4 tablespoons gaoliang (white liquor) or shaoxing rice wine"
+}
+{ 
+    "_id" : ObjectId("5ae1727096a10513983ee800"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Chinese", 
+    "Title" : "Chinese Broccoli recipes", 
+    "imageURL" : "https://www.edamam.com/web-img/f1b/f1b0168f1741eaff6f852a55348e116c", 
+    "InstructionURL" : "http://www.epicurious.com/recipes/food/views/Chinese-Broccoli-242053", 
+    "Ingredients" : "1 pound Chinese broccoli, trimmed (or 2 bunches Broccolini),2 tablespoons unsalted butter,2 teaspoons soy sauce,1/4 teaspoon Chinese five-spice powder,1/3 cup roasted soy nuts or peanuts, crushed"
+}
+{ 
+    "_id" : ObjectId("5ae1727096a10513983ee801"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Chinese", 
+    "Title" : "Chinese Pork Ribs", 
+    "imageURL" : "https://www.edamam.com/web-img/bf1/bf103cac00d887bb6daa4331c9764611.jpg", 
+    "InstructionURL" : "http://www.bbcgoodfood.com/recipes/2479/", 
+    "Ingredients" : "1.0 tbsp clear honey,1.0 tbsp vinegar (you can use cider, malt or wine),100.0ml hoisin sauce,2.0 tbsp soy sauce,12 meaty pork ribs,1.0 tsp Chinese five-spice powder"
+}
+{ 
+    "_id" : ObjectId("5ae1727096a10513983ee802"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Chinese", 
+    "Title" : "Pea Shoots- Chinese style", 
+    "imageURL" : "https://www.edamam.com/web-img/483/483738584253ea894e7b024b93abf282.jpg", 
+    "InstructionURL" : "https://food52.com/recipes/16009-pea-shoots-chinese-style", 
+    "Ingredients" : "2 cups pea shoots,1 tablespoon peanut oil,1/2 teaspoon fine sea salt,1/4 teaspoon raw cane sugar,3 garlic cloves, smashed,4 dried chilies,1 tablespoon chinese cooking wine,1 tablespoon chicken stock (or water)"
+}
+{ 
+    "_id" : ObjectId("5ae1727096a10513983ee803"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Chinese", 
+    "Title" : "Chinese Spinach Soup", 
+    "imageURL" : "https://www.edamam.com/web-img/2d8/2d87dce4d82d841ca55277d726126847.jpg", 
+    "InstructionURL" : "http://honestcooking.com/chinese-spinach-soup-recipe/", 
+    "Ingredients" : "250g chinese spinach � ends trimmed, separate stems and leaves,1 tablespoon dry anchovies � rinsed and pat dry,3 tablespoon vegetable oil,2 cloves garlic � peeled & sliced thinly,10g of chicken fillet � sliced thinly (optional),200ml water,Salt to taste"
+}
+{ 
+    "_id" : ObjectId("5ae1727096a10513983ee804"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Chinese", 
+    "Title" : "Chinese Broccoli", 
+    "imageURL" : "https://www.edamam.com/web-img/481/4818d9dd22361453dac8023e82a3cee8.jpg", 
+    "InstructionURL" : "http://www.myrecipes.com/recipe/chinese-broccoli-10000000635651/", 
+    "Ingredients" : "1 to 1 1/2 pounds Chinese broccoli (gai lan) or regular broccoli (see notes),2 tablespoons soy sauce,2 teaspoons Asian (toasted) sesame oil"
+}
+{ 
+    "_id" : ObjectId("5ae1727096a10513983ee805"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Chinese", 
+    "Title" : "Stir-Fried Chinese Cabbage with Ham", 
+    "imageURL" : "https://www.edamam.com/web-img/195/1957fb1cbc98cfcdb529c6ab2b8573a3.jpg", 
+    "InstructionURL" : "http://www.saveur.com/article/Recipes/Stir-Fried-Chinese-Cabbage-with-Ham", 
+    "Ingredients" : "1 1?2 lbs. chinese cabbage,1?4 cup chicken stock,2 tbsp. chinese rice wine,2 tsp. honey,2 tsp. cornstarch,1?4 lb. smithfield ham, thinly sliced"
+}
+{ 
+    "_id" : ObjectId("5ae1727096a10513983ee806"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Chinese", 
+    "Title" : "Chinese Halibut", 
+    "imageURL" : "https://www.edamam.com/web-img/13a/13abf414751ba489f683bba6fe358fce.jpg", 
+    "InstructionURL" : "http://www.foodista.com/recipe/MS275DNR/chinese-halibut", 
+    "Ingredients" : "4 lrgs Halibut steaks, � lb each,3 tablespoons Finely chopped fresh ginger,6 tablespoons Finely chopped scallions,2 tablespoons Light soy sauce,1 tablespoon Dark soy sauce,2 tablespoons Chinese rice wine or dry sherry,1 tablespoon Chinese sesame oil,tablespoon Minced fresh coriander"
+}
+{ 
+    "_id" : ObjectId("5ae1727096a10513983ee807"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Seafood", 
+    "Title" : "Seafood Pancakes", 
+    "imageURL" : "https://www.edamam.com/web-img/52c/52c867e7676729e9b48872343c680e30.jpg", 
+    "InstructionURL" : "http://www.seriouseats.com/recipes/2012/01/seafood-pancake-oyster-shrimp-scallop-crisp-brunch..html", 
+    "Ingredients" : "1 1/2 pounds assorted seafood (shrimp, scallops, squid, oysters and mussels all work well),7 scallions, thinly sliced,1/2 teaspoon finely grated ginger,3 cloves garlic, minced,1/2 teaspoon salt,2 cups all-purpose flour,1 1/2 cups water,2 eggs, beaten,Vegetable oil for cooking,Crushed red pepper (optional),Soy sauce (optional)"
+}
+{ 
+    "_id" : ObjectId("5ae1727096a10513983ee808"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Seafood", 
+    "Title" : "Spanish Seafood Rice", 
+    "imageURL" : "https://www.edamam.com/web-img/5be/5be59ff9c94bdc3d3ad0fa40fa5f4b5c.jpg", 
+    "InstructionURL" : "http://www.bbcgoodfood.com/recipes/412624/", 
+    "Ingredients" : "1 onion , finely chopped,250.0g paella rice,850.0ml hot vegetable stock (we used Kallo very low salt stock),2 garlic cloves , sliced,small handful flat-leaf parsley , roughly chopped,pinch saffron,400.0g seafood mix (we used a bag of frozen mixed seafood, defrosted before use),juice � small lemon,1 tbsp olive oil,1 red and 1 yellow pepper , deseeded and sliced"
+}
+{ 
+    "_id" : ObjectId("5ae1727096a10513983ee809"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Seafood", 
+    "Title" : "Seafood Miso Noodle Soup", 
+    "imageURL" : "https://www.edamam.com/web-img/f8e/f8e71121e76772a3c781976781908835.jpg", 
+    "InstructionURL" : "http://steamykitchen.com/20507-seafood-miso-noodle-soup..html", 
+    "Ingredients" : "4 ozs dried rice noodles,3 ozs fresh mushrooms,2 bok choy, leaves separated,8-10 ozs assorted seafood (fish, shrimp, scallops),1 stalk green onion, sliced,4 cups vegetable or chicken broth,2 tbsps miso paste"
+}
+{ 
+    "_id" : ObjectId("5ae1727096a10513983ee80a"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Seafood", 
+    "Title" : "Dad's Favorite Seafood Stew", 
+    "imageURL" : "https://www.edamam.com/web-img/a5e/a5ee0967ba3b80a74363c547ef0700b8.jpg", 
+    "InstructionURL" : "https://food52.com/recipes/14754-dad-s-favorite-seafood-stew", 
+    "Ingredients" : "1/3 cup extra virgin olive oil,4 crushed garlic cloves,6 peeled and seeded roma tomatoes cut into thin strips,1 cup homemade fish stock, purchased seafood stock or clam juice,1/2 cup dry white wine,1 pound skinned saltwater fish filets(snapper, sole, halibut, cod) cut into 2 inch chunks,16 large peeled and deveined raw shrimp,16 sea scallops,1/2 cup finely shredded fresh basil leaves,1/2 cup chopped flat leaf parsley"
+}
+{ 
+    "_id" : ObjectId("5ae1727096a10513983ee80b"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Seafood", 
+    "Title" : "Mexican Seafood Posole recipes", 
+    "imageURL" : "https://www.edamam.com/web-img/792/792654cf8716d2d322d8b6e2ed43f662", 
+    "InstructionURL" : "http://www.loveandoliveoil.com/2009/03/mexican-seafood-posole..html", 
+    "Ingredients" : "1 tablespoon olive oil,1 cup chopped onion,3 garlic cloves, minced,3 cups (or more) bottled clam juice,1 (15-ounce) can white hominy, drained, rinsed,1 cup salsa verde (tomatillo salsa), medium or mild,2 tablespoons finely chopped sun-dried tomatoes in oil,1 tablespoon finely grated lime peel,1 pound mixed seafood (shrimp, scallops, calamari rings),4 tablespoons chopped cilantro, divided"
+}
+{ 
+    "_id" : ObjectId("5ae174fc96a10513983ee815"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Seafood", 
+    "Title" : "Seafood Cannelloni recipes", 
+    "imageURL" : "https://www.edamam.com/web-img/eea/eea0bff84e60d5acaa009a3a31ff0f73", 
+    "InstructionURL" : "http://www.epicurious.com/recipes/food/views/Seafood-Cannelloni-107417", 
+    "Ingredients" : "1/3 cup finely chopped shallot,2 tablespoons finely chopped carrot,2 tablespoons finely chopped celery,1 lb medium shrimp in shells (31 to 35 per lb), peeled, reserving shells, and deveined,1 lb sea scallops, tough muscle removed from side of each and reserved,5 tablespoons unsalted butter, softened,1 teaspoon tomato paste,1 cup dry white wine,3 cups water,1 tablespoon seafood glaze* (optional),2 fresh flat-leaf parsley sprigs,3 tablespoons all-purpose flour,1 cup heavy cream,1/2 teaspoon fresh lemon juice, or to taste,1 1/2 teaspoons salt,1/2 teaspoon black pepper,2 tablespoons Cognac,1/2 cup finely chopped fresh chives,14 (6- by 3-inch) flat fresh or no-boil lasagne noodles (without curly edges)"
+}
+{ 
+    "_id" : ObjectId("5ae174fc96a10513983ee816"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Seafood", 
+    "Title" : "Soupoukandia (Okra And Seafood Stew)", 
+    "imageURL" : "https://www.edamam.com/web-img/85b/85bace75b3c26a53f310a61175c82015.jpg", 
+    "InstructionURL" : "http://www.saveur.com/article/Recipes/Senegal-Okra-Seafood-Stew", 
+    "Ingredients" : "FOR THE VEGETABLE BROTH:,12 cups fish or vegetable stock,4 cups thick-sliced okra,3 bay leaves,2 medium yellow onion, roughly chopped,FOR THE SEAFOOD SOUP:,6 tbsp. palm oil (available from iHerb),4 tbsp. fish sauce (available from Amazon),1 large eggplant, cut into large chunks, or 4 small Thai eggplants,2 habanero or Scotch bonnet chiles, slit in half lengthwise,24 mussels, cleaned and debearded,16 medium shrimp, peeled and deveined,Freshly ground black pepper, to taste,Cooked white rice or fonio, for serving (see below for ordering)"
+}
+{ 
+    "_id" : ObjectId("5ae174fc96a10513983ee817"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Seafood", 
+    "Title" : "Fideos With Seafood", 
+    "imageURL" : "https://www.edamam.com/web-img/a4b/a4b9307b7d80bb196f18bc1b71efd38d.jpg", 
+    "InstructionURL" : "http://www.cookstr.com/recipes/fideos-with-seafood", 
+    "Ingredients" : "1 bay leaf,� cup extra virgin olive oil,1 large onion , finely diced,6 cups fish or seafood stock,1 pound mussels , scrubbed,1 cup dry white wine,A large pinch of saffron threads,1 pound fideos (or substitute angel hair pasta broken into 1-inch pieces),One 28-ounce can whole peeled tomatoes,1 teaspoon hot piment�n (Spanish smoked paprika ),1 pound medium shrimp in the shell,1 pound clams , scrubbed,2 garlic cloves, minced"
+}
+{ 
+    "_id" : ObjectId("5ae174fc96a10513983ee818"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Seafood", 
+    "Title" : "Seafood Gumbo", 
+    "imageURL" : "https://www.edamam.com/web-img/665/665824abc422fc45841dd4d11fa82c26.jpg", 
+    "InstructionURL" : "http://www.eatingwell.com/recipe/250542/seafood-gumbo", 
+    "Ingredients" : "5 tablespoons canola oil, divided,1 pound okra, fresh or frozen (thawed), trimmed and cut into 1/4-inch-thick rounds,4 teaspoons distilled white vinegar,1/3 cup all-purpose flour,2 cups chopped green bell peppers,1 1/4 cups chopped yellow onions,1 1/4 cups chopped scallions, divided,1 cup chopped celery,1 clove garlic, minced,1 28-ounce can diced tomatoes with their juice,2 cups seafood stock or water,1/2 cup cubed boiled deli ham,2 bay leaves,2 sprigs fresh thyme or 1/2 teaspoon dried,1 tablespoon worcestershire sauce,1 teaspoon hot sauce,1/8 teaspoon salt,1 pound peeled, deveined raw shrimp (26-30 count),1/2 pound lump crabmeat, any shells or cartilage removed,2 tablespoons chopped parsley"
+}
+{ 
+    "_id" : ObjectId("5ae174fc96a10513983ee819"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Greek", 
+    "Title" : "Greek apricots", 
+    "imageURL" : "https://www.edamam.com/web-img/34a/34a997eb7eed05595865d211e0b0bc98.jpg", 
+    "InstructionURL" : "http://www.bbc.co.uk/food/recipes/greekapricots_72397", 
+    "Ingredients" : "250ml/8�fl oz cold water,50g/1�oz caster sugar,1 cinnamon stick,Small pinch saffron strands,1 tbsp honey,12 apricots, halved,150g/5�oz tub greek yoghurt,50g/1�oz pistachios, crushed"
+}
+{ 
+    "_id" : ObjectId("5ae174fc96a10513983ee81a"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Greek", 
+    "Title" : "Greek Panini", 
+    "imageURL" : "https://www.edamam.com/web-img/e2e/e2e219ab8e1747c23122ad19f31f800d.jpg", 
+    "InstructionURL" : "http://honestcooking.com/delicious-greek-panini/", 
+    "Ingredients" : "4 ready-made panini rolls,� cup mozzarella, grated or sliced,� cup feta cheese, sliced or crumbled,� bell pepper (i used � orange and � yellow), sliced,Handful (8-12) kalamata olives, pitted and halved,Pinch of oregano (greek if you can get it),Oil for the grill"
+}
+{ 
+    "_id" : ObjectId("5ae174fc96a10513983ee81b"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Greek", 
+    "Title" : "Rhubarb Frozen Greek Yogurt Recipe", 
+    "imageURL" : "https://www.edamam.com/web-img/7f8/7f8b96222ada916a4036b43530d996b2.jpg", 
+    "InstructionURL" : "http://www.seriouseats.com/recipes/2012/05/rhubarb-and-greek-yogurt-frozen-yogurt-recipe..html", 
+    "Ingredients" : "1 pound of rhubarb stalks, cut into 1/2-inch slices,1 1/2 cups Greek yogurt,2 cups sugar, divided"
+}
+{ 
+    "_id" : ObjectId("5ae174fc96a10513983ee81c"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Greek", 
+    "Title" : "Greek-amole", 
+    "imageURL" : "https://www.edamam.com/web-img/c5a/c5a5ec080b793de8f6ede4d1658a0394.jpg", 
+    "InstructionURL" : "https://food52.com/recipes/35353-greek-amole", 
+    "Ingredients" : "4 avocados,1 cup chopped cilantro,1 chile (such as jalape�o), minced,Juice of 1 lemon,Salt and Pepper, to taste,4 heaping tablespoons Greek yogurt (such as Fage),1 small clove of garlic, minced (optional)"
+}
+{ 
+    "_id" : ObjectId("5ae174fc96a10513983ee81d"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Greek", 
+    "Title" : "Greek Salad", 
+    "imageURL" : "https://www.edamam.com/web-img/8ad/8adc3b0dec518a864a28b1242c38a2b4.jpg", 
+    "InstructionURL" : "http://www.bbcgoodfood.com/recipes/12227/", 
+    "Ingredients" : "16 Kalamata olives,85.0g feta cheese , cut into chunks (barrel matured feta is the best),4.0 tbsp Greek extra virgin olive oil,1.0 tsp dried oregano,1 cucumber , peeled, deseeded, then roughly chopped,4 large vine tomatoes , cut into irregular wedges,� a red onion , thinly sliced"
+}
+{ 
+    "_id" : ObjectId("5ae174fc96a10513983ee81e"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Greek", 
+    "Title" : "Greek Meatballs", 
+    "imageURL" : "https://www.edamam.com/web-img/b79/b79815b9112e7e9fcca6525c966905c9.jpg", 
+    "InstructionURL" : "http://simplyrecipes.com/recipes/greek_meatballs/", 
+    "Ingredients" : "1 tablespoon olive oil,1 clove garlic, minced,1 jalape�o, seeded and minced,1 large shallot, minced,1 pound ground lamb,4 ounces salt pork, ground or finely minced,Zest of 1 orange,2 tablespoons chopped mint,Freshly ground black pepper,Greek yogurt for dipping"
+}
+{ 
+    "_id" : ObjectId("5ae174fc96a10513983ee81f"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Greek", 
+    "Title" : "Greek Yogurt Labneh recipes", 
+    "imageURL" : "https://www.edamam.com/web-img/cc1/cc13fe972cd6822cd57261dcf88a3f07", 
+    "InstructionURL" : "http://www.epicurious.com/recipes/food/views/Greek-Yogurt-Labneh-51134560", 
+    "Ingredients" : "2 cups plain 2% fat or whole Fage Greek yogurt,1/2 cup (or more) good-quality extra-virgin olive oil,3 tablespoons finely minced fresh herbs (such as tarragon, parsley, and chives),1/2 teaspoon finely grated lemon zest,ground black pepper,kosher salt"
+}
+{ 
+    "_id" : ObjectId("5ae174fc96a10513983ee820"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Greek", 
+    "Title" : "Greek Yogurt Ice Cream", 
+    "imageURL" : "https://www.edamam.com/web-img/02e/02e1ac9d54d320efadd34f8c74f5d153.jpg", 
+    "InstructionURL" : "http://www.bonappetit.com/recipe/greek-yogurt-ice-cream", 
+    "Ingredients" : "1 cup heavy whipping cream,1 cup whole milk,3/4 cup sugar, divided,3 large egg yolks,1 cup whole-milk Greek-style yogurt,Pinch of salt"
+}
+{ 
+    "_id" : ObjectId("5ae174fc96a10513983ee821"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Greek", 
+    "Title" : "Greek Roasted Potatoes recipes", 
+    "imageURL" : "https://www.edamam.com/web-img/722/722e19fcc0cc38fd6d96a00659ecb097", 
+    "InstructionURL" : "http://thepioneerwoman.com/food-and-friends/exploring-greek-flavors-and-greek-roasted-potatoes/", 
+    "Ingredients" : "6 Large Yukon Gold Potatoes, Sliced Into 1/4-inch Thick Rounds,1/3 cup Fresh Lemon Juice, Plus The Zest From The Lemons,8 cloves Garlic, Minced,1/2 cup Olive Oil,1 Tablespoon Dried Oregano, Preferably Greek Oregano,kosher salt"
+}
+{ 
+    "_id" : ObjectId("5ae174fc96a10513983ee822"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Greek", 
+    "Title" : "Greek Lemon Roasted Potatoes", 
+    "imageURL" : "https://www.edamam.com/web-img/d34/d34802d34326bbb56fb12e5817c586bf.jpg", 
+    "InstructionURL" : "http://www.marthastewart.com/436596/greek-lemon-roasted-potatoes", 
+    "Ingredients" : "4 large russet baking potatoes (8 medium), peeled and quartered,1/2 cup olive oil,1/2 cup freshly squeezed lemon juice (3 lemons),1 tablespoon dried oregano, preferably greek oregano, plus more for garnish,1 tablespoon salt,1/4 teaspoon freshly ground black pepper"
+}
+{ 
+    "_id" : ObjectId("5ae174fc96a10513983ee823"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Vegetarian", 
+    "Title" : "Vegetarian Ramen", 
+    "imageURL" : "https://www.edamam.com/web-img/10a/10ae90f8732d66d2800239111401544f.jpg", 
+    "InstructionURL" : "https://food52.com/recipes/31889-vegetarian-ramen", 
+    "Ingredients" : "1 cup dried mushrooms, preferably shiittake,2 carrots, cut into thirds,1 onion, cut in half (you can leave the skin on),2 stalks celery, cut into thirds,6 to 8 garlic cloves, smashed,One 2-inch section of ginger, smashed,2 stalks lemongrass, cut into thirds and smashed (optional),8 cups cold water,1 sheet kombu, wiped with a damp cloth,2 tablespoons bonito flakes (technically not vegetarian, but recommended for fish eaters),1/2 cup mirin,1 cup shoyu (Japanese soy sauce),2 tablespoons brown sugar,1 to 2 squirts sriracha, or pinch of red pepper flakes,4 eggs,1 packet extra-firm tofu, pressed of its moisture,1 tablespoon oil with high smoke point, like peanut,4 packets ramen or udon noodles, preferably fresh,Thai basil,Lime wedges,Green onion, sliced"
+}
+{ 
+    "_id" : ObjectId("5ae174fc96a10513983ee824"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Vegetarian", 
+    "Title" : "Vegetarian Minestrone", 
+    "imageURL" : "https://www.edamam.com/web-img/8e2/8e2e9edf924d72b48f9473cb21de8be7.jpg", 
+    "InstructionURL" : "http://herbivoracious.com/2009/10/minestrone..html", 
+    "Ingredients" : "1/2 cup extra virgin olive oil,1 medium onion, thinly sliced,1-2 medium carrots, small dice,3 stalks celery, small dice (reserve leaves for garnish),2 cups small diced waxy potatoes, skin on,1 handful green beans, ends trimmed, cut in 1/2\\ lengths,3 medium zucchini, small dice,3 cups finely shredded cabbage (savoy or green),1-2 tablespoons vegetable broth powder; i like seitenbacher (double check gluten free/vegan status if important to you). don't be tempted to use a thick vegetarian broth; you can use a pre-mixed one as long as it is a clear brown type that tastes good.,1 parmesan rind (see above),1 15 oz. can good quality whole italian tomatoes with juice,Salt,1/2 cup grated parmigiano-reggiano,1 15 oz. can cannelini or white navy beans, drained and rinsed,Big garlic-butter croutons for serving (optional)"
+}
+{ 
+    "_id" : ObjectId("5ae174fc96a10513983ee825"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Vegetarian", 
+    "Title" : "Vegetarian Shark Fin Soup", 
+    "imageURL" : "https://www.edamam.com/web-img/ab4/ab420e7978aa319d1600da198f306698.png", 
+    "InstructionURL" : "http://redcook.net/2010/07/01/mock-shark-fin-soup/", 
+    "Ingredients" : "7 oz. konnyaku (japanese yam cake, preferably with seaweed powder),4 oz. bamboo shoots,2 oz. dried wood ear mushrooms,2 oz. dried kelp,4 cups vegetarian stock,2 teaspoons salt,1/2 teaspoon ground white pepper,1 egg,Cornstarch slurry made from 2 tablespoons of cornstarch mixed with 1/4 cup water,12 oz. mung bean sprouts,1/2 cup chinkiang black vinegar"
+}
+{ 
+    "_id" : ObjectId("5ae174fc96a10513983ee826"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Vegetarian", 
+    "Title" : "Vegetarian Banana Leaf Tamales", 
+    "imageURL" : "https://www.edamam.com/web-img/71f/71f59d19bb597a36004d0658f4e9e35b.jpg", 
+    "InstructionURL" : "http://www.simplyrecipes.com/recipes/vegetarian_banana_leaf_tamales/", 
+    "Ingredients" : "1 pound package of banana leaves, frozen or fresh (available at most Asian or Mexican markets),2 pounds of already prepared tamale masa, or 3 cups masa harina (masa flour NOT regular corn meal) Note that prepared masa often has lard in it, so if you are going vegetarian on this recipe consider making your own masa from scratch, or buying a vegetarian prepared masa.,3 dried ancho chilies,1 clove garlic,2 whole cloves,2 whole peppercorns,Salt,Olive oil,Olive oil,1 cup chopped carrots (about 1 1/2 carrots),1/2 cup chopped red onion (about 1/2 onion),3 large cloves garlic, peeled and chopped,2 calabacitas (Mexican summer squash, can substitute zucchini), roughly chopped (1 1/2 cups),2 plum tomatoes, cored and chopped (about 1 cup),1 small bunch of spinach (about 15-20 leaves), rinsed, stems removed and discarded, chopped,Salt,12 ounces Monterey Jack cheese, cut into 3\\ x 3/4\\ x 1/2\\ pieces,A large stockpot with a steamer rack"
+}
+{ 
+    "_id" : ObjectId("5ae1756d96a10513983ee830"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Vegetarian", 
+    "Title" : "Vegetarian Enchilada", 
+    "imageURL" : "https://www.edamam.com/web-img/7e6/7e6229a6bd0f86838b3aaab00d83e722.jpg", 
+    "InstructionURL" : "http://www.foodista.com/recipe/5C7QG25S/vegetarian-enchilada", 
+    "Ingredients" : "3 teaspoons chili powder,3 teaspoons ground cumin,4 cups broccoli, diced,2 green peppers, sliced,2 cans vegetarian refried beans (Rosarita brand),2 cups frozen cut corn,1 (28 oz.) can enchilada sauce (Las Palmas brand),12 18 inch Pyrex baking dish,2 onions, diced,1/2 cup water,24 corn tortilla"
+}
+{ 
+    "_id" : ObjectId("5ae1756d96a10513983ee831"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Vegetarian", 
+    "Title" : "Individual vegetarian lasagnes", 
+    "imageURL" : "https://www.edamam.com/web-img/775/7757b08b70371bcb03d3c10199e70e77.jpg", 
+    "InstructionURL" : "http://www.jamieoliver.com/recipes/vegetables-recipes/individual-vegetarian-lasagnes/", 
+    "Ingredients" : "1.2 kg cherry tomatoes,5 sprigs of fresh thyme,extra virgin olive oil,2 shallots,2 cloves of garlic,500 g baby spinach,8-12 fresh or dried lasagne sheets,350 g ricotta cheese,WHITE SAUCE,600 ml milk,25 g unsalted butter,2 heaped tablespoons flour,150 g vegetarian sharp, mature cheese,100 g mozzarella"
+}
+{ 
+    "_id" : ObjectId("5ae1756d96a10513983ee832"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Vegetarian", 
+    "Title" : "Vegetarian Matzo Ball Soup", 
+    "imageURL" : "https://www.edamam.com/web-img/e04/e0493f9421f28a7248b6e1caaa4bbb7c.jpg", 
+    "InstructionURL" : "http://www.thekitchn.com/comforting-reci-162258", 
+    "Ingredients" : "For the matzo balls:,2 cups matzo meal (I prefer to buy unsalted crackers and pulse in the food processor),1/4 teaspoon baking soda,1 teaspoon truffle salt (if you don't have truffle salt, it's okay, just use regular),4 eggs,2 tablespoons melted butter (you could use shmaltz, if you are not vegetarian),1/4 cup seltzer water,For the soup:,3 tablespoons olive oil,1 onion, roughly diced,4 small carrots or 2 large, roughly chopped,3 celery stalks, roughly chopped,1/2 cup sherry or white wine,2 quarts Imagine \\No Chicken\\ broth or homemade vegetable stock,4 cloves garlic, minced,2 bay leaves,1 teaspoon dried dill,Fresh dill for garnish"
+}
+{ 
+    "_id" : ObjectId("5ae1756d96a10513983ee833"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Vegetarian", 
+    "Title" : "Vegetarian Cassoulet", 
+    "imageURL" : "https://www.edamam.com/web-img/a31/a31e34980c125d62647227b394c6d326.jpg", 
+    "InstructionURL" : "http://smittenkitchen.com/2008/03/vegetarian-cassoulet/", 
+    "Ingredients" : "3 medium leeks (white and pale green parts only),4 medium carrots, halved,lengthwise and cut into 1-inch-wide pieces,3 celery ribs, cut into 1-inch-wide pieces,4 garlic cloves, chopped,1/4 cup olive oil,4 thyme sprigs,2 parsley sprigs,1 Turkish or 1/2 California bay leaf,3 (19-ounce) cans cannellini or Great Northern beans, rinsed and drained or 4 1/2 cups cooked dried beans ( dried beans cooking instructions here,3 tbsp tomato paste,1 quart Stock,4 cup oarse fresh bread crumbs from a baguette,1/3 cup Olive Oil,1 tbsp chopped garlic,1/4 cup chopped parsley"
+}
+{ 
+    "_id" : ObjectId("5ae1756d96a10513983ee834"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "Vegetarian", 
+    "Title" : "Vegetarian Thai Red Curry", 
+    "imageURL" : "https://www.edamam.com/web-img/8e5/8e5c916e4d6d2cbd48d97ca775eadbab.jpg", 
+    "InstructionURL" : "http://www.eatingwell.com/recipe/250739/vegetarian-thai-red-curry", 
+    "Ingredients" : "1 14-ounce can �lite� coconut milk, divided,2 tablespoons vegetarian thai red curry paste (see tip), or to taste,1 pound sweet potatoes, peeled and cut into 11/2-inch cubes,2 cups water,1 bunch asparagus, trimmed and cut into 2-inch lengths,2 fresh cayenne chiles or bird chiles (see tip), cut into long strips (optional),2 whole lime leaves (fresh or frozen; see tip) or 2 teaspoons lime zest,2 cups coarsely chopped dandelion greens or arugula,1/2 cup fresh basil leaves, preferably thai basil,1/4 teaspoon salt"
+}
+{ 
+    "_id" : ObjectId("5ae1756d96a10513983ee835"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "American", 
+    "Title" : "Cauliflower Veloute with American Caviar", 
+    "imageURL" : "https://www.edamam.com/web-img/2b1/2b130d86301a129ecef68bd9399870de.jpg", 
+    "InstructionURL" : "http://www.marthastewart.com/859170/cauliflower-veloute-american-caviar", 
+    "Ingredients" : "2 tablespoons unsalted butter,1 medium shallot, chopped,2 large heads cauliflower, cut into 1-inch pieces (about 12 cups),2 cups heavy cream,3 1/2 cups homemade or store-bought low-sodium chicken or vegetable stock,2 tablespoons olive oil,Coarse salt and freshly ground black pepper,2 tablespoons freshly squeezed lemon juice,1/4 teaspoon cayenne pepper,2 ounces american caviar, such as paddlefish,1 small bunch fresh tarragon, for garnish"
+}
+{ 
+    "_id" : ObjectId("5ae1756d96a10513983ee836"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "American", 
+    "Title" : "Wholewheat Blinis With American Caviar", 
+    "imageURL" : "https://www.edamam.com/web-img/4ff/4ffd9f61b17a190cb5a8e317580dc478.jpg", 
+    "InstructionURL" : "http://www.epicurious.com/recipes/food/views/Wholewheat-Blinis-with-American-Caviar-351035", 
+    "Ingredients" : "3 tablespoons warm water (105�F to 115�F),1/2 teaspoon active dry yeast,3/4 cup whole milk, room temperature,2 tablespoons (1/4 stick) unsalted butter, melted, cooled slightly,2 tablespoons sour cream plus additional for serving,1 large egg, separated,1/8 teaspoon sugar,1/8 teaspoon salt,1/2 cup all purpose flour,1/2 cup whole wheat flour,1 tablespoon chopped fresh dill,Vegetable oil (for frying),2 ounces American caviar"
+}
+{ 
+    "_id" : ObjectId("5ae1756d96a10513983ee837"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "American", 
+    "Title" : "Juicy and Tender Italian-American Meatballs in Red Sauce Recipe", 
+    "imageURL" : "https://www.edamam.com/web-img/d77/d77354c52ddc8af6c4cf43d844e6858b.jpg", 
+    "InstructionURL" : "http://www.seriouseats.com/recipes/2015/01/italian-american-beef-pork-meatballs-red-tomato-sauce-recipe..html", 
+    "Ingredients" : "1 packet unflavored gelatin (optional, see note above),1/2 cup homemade chicken stock or low-sodium broth (optional, see note above),4 ounces fresh white bread, crusts removed and bread cut into 1/2-inch cubes (about 2 unpacked cups),1/3 cup buttermilk, plus more as needed,1 medium onion, minced,8 cloves garlic, finely minced,2 ounces grated Parmigiano-Reggiano, grated, plus more for serving.,1/2 cup loosely packed fresh parsley leaves, minced,4 teaspoons kosher salt (18 grams; see note above),Freshly ground black pepper,3 ounces fatty pancetta, finely minced (see note above),4 large egg yolks,1 teaspoon dried oregano,1 teaspoon ground fennel seed,1 pound ground beef (at least 25% fat),1 pound ground pork (at least 25% fat),5 cups tomato sauce, such as Quick and Easy Italian American Red Sauce, The Best Slow Cooked Tomato Sauce, or The Best Fresh Tomato Sauce"
+}
+{ 
+    "_id" : ObjectId("5ae1756d96a10513983ee838"), 
+    "UserId" : NumberInt(1), 
+    "Cuisine" : "American", 
+    "Title" : "The American Honey Gold Medal Cocktail", 
+    "imageURL" : "https://www.edamam.com/web-img/827/827f789310569cb07847c20089d3a61f.jpg", 
+    "InstructionURL" : "http://www.thedailymeal.com/american-honey-gold-medal-cocktail-recipe", 
+    "Ingredients" : "1 1/2 Ounce American Honey Bourbon,3/4 Ounces simple syrup,4 Ounces Republic of Tea Mango Black Tea,Dried mango, for garnish"
+}
